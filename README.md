@@ -5,7 +5,7 @@
 <hr size=3 noshade>
 <h1><center>ISWARIYA.R</center></h1>
 <hr size=3 noshade>
-<img src="https://github.com/bhuvanesh1124/bhuvi/blob/main/ishwariya.jpg" height=400px width=200px>
+<img src="https://github.com/bhuvanesh1124/saniyan/blob/main/iswariya.jpg" height=400px width=200px>
 <h2>Happy birth day </h2>
 <p>Always be happy .Dont worry about anythig, one day all will change.</p>
 <hr size=3 noshade>
